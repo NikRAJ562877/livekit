@@ -19,11 +19,6 @@
 
 ## Setup Instructions
 
-### 1. Environment Variables
-
-The following environment variables are already configured in your v0 workspace:
-
-
 ### 2. Install Dependencies
 
 \`\`\`bash
